@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @german-leontiev
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning CNN
+- 🌱 I’m currently learning CV tasks
 
 - 📫 How to reach me german_leontiev@mail.ru
 
