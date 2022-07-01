@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @german-leontiev
-- 👀 I’m interested in ML
+- 👀 CV-engineer
+- 🚘 Work on autonomous driving systems
 
 - 📫 How to reach me german_leontiev@mail.ru
 
